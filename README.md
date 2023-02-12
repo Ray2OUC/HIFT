@@ -13,4 +13,7 @@ The core implementation of HIFT is shown in HIFT_core.py
 ```
 CUDA_VISIBLE_DEVICES=0 python export_descriptor_sift.py
 ```
-For more evaluation details, please refer to the [LISRD]: https://github.com/rpautrat/LISRD 
+For more evaluation details, please refer to the [LISRD](https://github.com/rpautrat/LISRD)
+
+# Acknowledgments
+Our work is based on [LISRD](https://github.com/rpautrat/LISRD) and we use their code.  We appreciate the previous open-source repository [LISRD](https://github.com/rpautrat/LISRD)
