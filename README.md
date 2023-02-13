@@ -10,7 +10,7 @@ The core implementation of HIFT is shown in HIFT_core.py
 
 # DEMO：SIFT+HIFT
 1. We provide the image matching demo of using SIFT keypoints and HIFT descriptor in demo.ipynb.
-2. We provide the demo of exporting SIFT keypoints and AANet descriptor in export_descriptor_sift.py, and it can be easily modified to other off-the-shelf detectors and matchers for evaluation. 
+2. We provide the demo of exporting SIFT keypoints and HIFT descriptor in export_descriptor_sift.py, and it can be easily modified to other off-the-shelf detectors and matchers for evaluation. 
 ```
 CUDA_VISIBLE_DEVICES=0 python export_descriptor_sift.py
 ```
