@@ -3,7 +3,7 @@ demo and pre-trained weight of HIFT --- a dense descriptor for local feature mat
 ![HIFT](/samples/model.png)
 Our work is accepted by IEEE Transactions on Instrumentation & Measurement 2023
 # Pre-Trained Weights
-We trained our AANet with one-stage end-to-end triplet training strategy on MS-COCO, Multi-illumination and VIDIT datasets (same as LISRD) and the pre-trained weight is compressed as hift.rar
+We trained our HIFT with one-stage end-to-end triplet training strategy on MS-COCO, Multi-illumination and VIDIT datasets (same as LISRD) and the pre-trained weight is available at [hift](https://drive.google.com/file/d/1uOLlh--rT6_UY5VmA7-oFypCemoQJ527/view?usp=sharing)
 
 # Model file
 The core implementation of HIFT is shown in HIFT_core.py
