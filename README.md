@@ -1,6 +1,7 @@
 # Learning Enriched Feature Descriptor for Image Matching and Visual Measurement
 demo and pre-trained weight of HIFT --- a dense descriptor for local feature matching.
 ![HIFT](/samples/model.png)
+IEEE Transactions on Instrumentation & Measurement 2023
 # Pre-Trained Weights
 We trained our AANet with one-stage end-to-end triplet training strategy on MS-COCO, Multi-illumination and VIDIT datasets (same as LISRD) and the pre-trained weight is compressed as hift.rar
 
