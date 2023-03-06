@@ -21,15 +21,15 @@ For more evaluation details, please refer to the [LISRD](https://github.com/rpau
 If you are interested in this work, please cite the following work:
 
 ```
-@ARTICLE{9761834,
-  author={Rao, Yuan and Yang, Jian and Ju, Yakun and Li, Cong and Rigall, Eric and Fan, Hao and Dong, Junyu},
+@ARTICLE{10058693,
+  author={Rao, Yuan and Ju, Yakun and Wang, Sen and Gao, Feng and Fan, Hao and Dong, Junyu},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Learning General Feature Descriptor for Visual Measurement With Hierarchical View Consistency}, 
-  year={2022},
-  volume={71},
+  title={Learning Enriched Feature Descriptor for Image Matching and Visual Measurement}, 
+  year={2023},
+  volume={},
   number={},
-  pages={1-12},
-  doi={10.1109/TIM.2022.3169563}}
+  pages={1-1},
+  doi={10.1109/TIM.2023.3249237}}
 ```
 
 # Acknowledgments
