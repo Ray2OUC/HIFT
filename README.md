@@ -26,9 +26,9 @@ If you are interested in this work, please cite the following work:
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Learning Enriched Feature Descriptor for Image Matching and Visual Measurement}, 
   year={2023},
-  volume={},
+  volume={72},
   number={},
-  pages={1-1},
+  pages={1-12},
   doi={10.1109/TIM.2023.3249237}}
 ```
 
